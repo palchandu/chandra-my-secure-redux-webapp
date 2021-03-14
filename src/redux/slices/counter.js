@@ -1,7 +1,7 @@
 import { createSlice } from '@reduxjs/toolkit';
 /*  STATE */
 const initialState = {
-  counter: 0,
+  counter: 5,
 };
 
 const slice = createSlice({
@@ -29,7 +29,7 @@ export const incrementCounterAction = () => async (dispatch) => {
   dispatch(slice.actions.increment());
 };
 
-export const incrementCounterAction = () => async (dispatch) => {
+export const decrementCounterAction = () => async (dispatch) => {
     dispatch(slice.actions.decrementCounter());
 };
 
