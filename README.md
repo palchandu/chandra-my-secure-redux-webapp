@@ -1,5 +1,8 @@
 # Description
 
+# Tutorial Link
+[Secure Redux Toolkit Setup on React Projects](https://medium.com/allient/redux-toolkit-setup-on-react-projects-112b6409c2ad)
+
 ![Redux Toolkit Setup on React Projects](https://miro.medium.com/max/1000/1*-iVj5BTg2fr8b5bgKQGReA.gif)
 
 
